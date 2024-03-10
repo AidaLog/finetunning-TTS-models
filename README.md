@@ -3,4 +3,4 @@
 ## other resource
 
 - [Noice suppressor](https://github.com/werman/noise-suppression-for-voice.git)
-- [AudaCity](https://youtu.be/dfmlyXHQOwE)
+- [Updated | Near-Automated Voice Cloning | Whisper STT + Coqui TTS | Fine Tune a VITS Model on Colab](https://youtu.be/dfmlyXHQOwE)
